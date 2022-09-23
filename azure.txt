@@ -1,0 +1,7 @@
+	LabUser-25794850@cloudslice.onmicrosoft.com
+	MGj50*p!eD
+
+Manage Tenant
+Organization Name	First AAD
+Initial Domain Name	firstaad25794850
+Country/Region	United States
